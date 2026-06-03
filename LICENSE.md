@@ -1,4 +1,4 @@
-# 
+# Exclusivo algorithmic trading bot scripts para Mac OS | Instantâneo algorithmic trading bot scripts para PC Windows. Com análise de momento e tamanho da posição — otimizado para máximo desempenho em cada plataforma.
 
 
 
